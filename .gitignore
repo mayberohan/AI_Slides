@@ -1,0 +1,10 @@
+__pycache__/
+.env
+*.pyc
+.cache/
+cache/
+output_*.pptx
+*.pptx
+.env.*
+.vscode/
+.DS_Store
